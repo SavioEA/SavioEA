@@ -3,6 +3,7 @@
 - 👨🏻‍💻 **Java, Spring Boot, Maven, JUnit, Mockito, SQL, MongoDB**
 - 📚 **Graduando em Sistemas de Informação**
 - ☕ **Cursando "Especialista Back-End Java" na EBAC**
+- 💡 **Aluno do https://curso.dev**
 - 🎯 **Santander Coders 24 | Back End – Ada Tech**
 - 🎯 **Developing Serverless Solutions on AWS – AWS Training and Certification**
 - ⚡ **Fun fact: Apesar de ser da área de Tecnologia, não tem nada melhor pra mim do que me conectar com a natureza!** 🌄🏝🌲
